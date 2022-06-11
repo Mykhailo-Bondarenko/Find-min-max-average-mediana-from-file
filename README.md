@@ -4,6 +4,6 @@
 - Find the minimum number in the file;
 - Find median;
 - Find average;
-- * Find the largest sequence of numbers (which go one after another) that increases;
-- * Find the largest sequence of numbers (which go one after the other), which is reduced;
+- Find the largest sequence of numbers (which go one after another) that increases;
+- Find the largest sequence of numbers (which go one after the other), which is reduced;
 ## **The proposed solution method should find all four/six values from the file in no more than 90 seconds.**
